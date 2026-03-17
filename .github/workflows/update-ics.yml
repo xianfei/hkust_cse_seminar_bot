@@ -2,8 +2,8 @@ name: Update Seminar ICS
 
 on:
   schedule:
-    # Run every 6 hours (matches X-PUBLISHED-TTL in the ICS)
-    - cron: "0 */6 * * *"
+    # Run at 18:00 everyday (matches X-PUBLISHED-TTL in the ICS)
+    - cron: "0 18 * * *"
   workflow_dispatch: # Allow manual trigger
 
 permissions:
