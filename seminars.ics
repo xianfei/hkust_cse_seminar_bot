@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:Generative AI for High-Stakes Decisions with Societal Impact
 DTSTART;TZID=Asia/Hong_Kong:20260202T093000
 DTEND;TZID=Asia/Hong_Kong:20260202T103000
-DTSTAMP:20260405T184203Z
+DTSTAMP:20260406T185802Z
 UID:20260202T093000-generativeaiforhighstakesdecis@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Dr. Lingkai Kong\nAffiliation: Harvard SEAS\nHost: J.
   Kwok\nDetails: https://cse.hkust.edu.hk/pg/seminars/S26/kong.html\nSource
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Probabilistic 4D Scene Reconstruction from Monocular Videos
 DTSTART;TZID=Asia/Hong_Kong:20260209T160000
 DTEND;TZID=Asia/Hong_Kong:20260209T170000
-DTSTAMP:20260405T184203Z
+DTSTAMP:20260406T185802Z
 UID:20260209T160000-probabilistic4dscenereconstruc@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Prof. Bohyung Han\nAffiliation: SNU\nHost: J. Jia\nDe
  tails: https://cse.hkust.edu.hk/pg/seminars/S26/han.html\nSource: https://
@@ -36,7 +36,7 @@ SUMMARY:How Sampling Shapes LLM Alignment: From One-Shot Optima to Iterati
  ve Dynamics
 DTSTART;TZID=Asia/Hong_Kong:20260302T160000
 DTEND;TZID=Asia/Hong_Kong:20260302T170000
-DTSTAMP:20260405T184203Z
+DTSTAMP:20260406T185802Z
 UID:20260302T160000-howsamplingshapesllmalignmentf@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Dr. Yurong Chen\nAffiliation: INRIA\nHost: S.W. Cheng
  \nDetails: https://cse.hkust.edu.hk/pg/seminars/S26/chen.html\nSource: htt
@@ -49,7 +49,7 @@ SUMMARY:Beyond Static Alignment: Advancing Trustworthy and Socially Intell
  igent AI Agents
 DTSTART;TZID=Asia/Hong_Kong:20260303T150000
 DTEND;TZID=Asia/Hong_Kong:20260303T160000
-DTSTAMP:20260405T184203Z
+DTSTAMP:20260406T185802Z
 UID:20260303T150000-beyondstaticalignmentadvancing@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Dr. Jieyu Zhao\nAffiliation: Univ. of Southern Califo
  rnia\nHost: Y. Song\nDetails: https://cse.hkust.edu.hk/pg/seminars/S26/zha
@@ -62,7 +62,7 @@ SUMMARY:Causal AI for Transferable\, Interpretable\, and Controllable Mach
  ine Learning
 DTSTART;TZID=Asia/Hong_Kong:20260309T093000
 DTEND;TZID=Asia/Hong_Kong:20260309T103000
-DTSTAMP:20260405T184203Z
+DTSTAMP:20260406T185802Z
 UID:20260309T093000-causalaifortransferableinterpr@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Lingjing Kong\nAffiliation: Carnegie Mellon Univ.\nHo
  st: N.L. Zhang\nDetails: https://cse.hkust.edu.hk/pg/seminars/S26/kong2.ht
@@ -75,7 +75,7 @@ SUMMARY:Towards Resilient Autonomous Cyber-Physical Systems against Advers
  arial Examples
 DTSTART;TZID=Asia/Hong_Kong:20260309T160000
 DTEND;TZID=Asia/Hong_Kong:20260309T170000
-DTSTAMP:20260405T184203Z
+DTSTAMP:20260406T185802Z
 UID:20260309T160000-towardsresilientautonomouscybe@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Dr. Qun Song\nAffiliation: CityU\nHost: X. Ouyang\nDe
  tails: https://cse.hkust.edu.hk/pg/seminars/S26/song.html\nSource: https:/
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Towards General Intelligence Sensing Technologies
 DTSTART;TZID=Asia/Hong_Kong:20260316T160000
 DTEND;TZID=Asia/Hong_Kong:20260316T170000
-DTSTAMP:20260405T184203Z
+DTSTAMP:20260406T185802Z
 UID:20260316T160000-towardsgeneralintelligencesens@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Dr. Zhenyu Yan\nAffiliation: CUHK\nHost: X. Ouyang\nD
  etails: https://cse.hkust.edu.hk/pg/seminars/S26/yan.html\nSource: https:/
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:AI that Knows When It Doesn't Know
 DTSTART;TZID=Asia/Hong_Kong:20260319T093000
 DTEND;TZID=Asia/Hong_Kong:20260319T103000
-DTSTAMP:20260405T184203Z
+DTSTAMP:20260406T185802Z
 UID:20260319T093000-aithatknowswhenitdoesntknow@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Haoyue Bai\nAffiliation: Univ. of Wisconsin–Madison
  \nHost: Q. Luo\nDetails: https://cse.hkust.edu.hk/pg/seminars/S26/bai.html
@@ -112,7 +112,7 @@ SUMMARY:Interactive Design of High-Fidelity Physics via Progressive Simula
  tion
 DTSTART;TZID=Asia/Hong_Kong:20260323T160000
 DTEND;TZID=Asia/Hong_Kong:20260323T170000
-DTSTAMP:20260405T184203Z
+DTSTAMP:20260406T185802Z
 UID:20260323T160000-interactivedesignofhighfidelit@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Jiayi Zhang\nAffiliation: Stanford Univ.\nHost: P. Sa
  nder\nDetails: https://cse.hkust.edu.hk/pg/seminars/S26/zhang.html\nSource
@@ -125,7 +125,7 @@ SUMMARY:Federated Cloud Computing Expands Medical Large Models and Embodie
  d Artificial Intelligence
 DTSTART;TZID=Asia/Hong_Kong:20260327T100000
 DTEND;TZID=Asia/Hong_Kong:20260327T110000
-DTSTAMP:20260405T184203Z
+DTSTAMP:20260406T185802Z
 UID:20260327T100000-federatedcloudcomputingexpands@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Prof. Kai Hwang\nAffiliation: Univ. of Southern Calif
  ornia\nHost: C. Li\nDetails: https://cse.hkust.edu.hk/pg/seminars/S26/hwan
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:AI and Systems Design for Marine Challenges
 DTSTART;TZID=Asia/Hong_Kong:20260330T160000
 DTEND;TZID=Asia/Hong_Kong:20260330T170000
-DTSTAMP:20260405T184203Z
+DTSTAMP:20260406T185802Z
 UID:20260330T160000-aiandsystemsdesignformarinecha@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Prof. Sai-Kit Yeung\nAffiliation: ISD\, CSE & OCES\nH
  ost: M. Li\nDetails: https://cse.hkust.edu.hk/pg/seminars/S26/yeung.html\n
@@ -150,7 +150,7 @@ SUMMARY:Algorithms\, Applications\, and Verification of Causal Structure L
  earning
 DTSTART;TZID=Asia/Hong_Kong:20260420T163000
 DTEND;TZID=Asia/Hong_Kong:20260420T173000
-DTSTAMP:20260405T184203Z
+DTSTAMP:20260406T185802Z
 UID:20260420T163000-algorithmsapplicationsandverif@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Dr. Pingchuan Ma\nAffiliation: Zhejiang Univ. of Tech
  nology\nHost: K. Chen\nDetails: https://cse.hkust.edu.hk/pg/seminars/S26/m
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:Designs to Support Better Visual Data Communication
 DTSTART;TZID=Asia/Hong_Kong:20260427T160000
 DTEND;TZID=Asia/Hong_Kong:20260427T170000
-DTSTAMP:20260405T184203Z
+DTSTAMP:20260406T185802Z
 UID:20260427T160000-designstosupportbettervisualda@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Dr. Cindy Xiong Bearfield\nAffiliation: Georgia Insti
  tute of Technology\nHost: A. Narechania\nDetails: https://cse.hkust.edu.hk
@@ -176,7 +176,7 @@ SUMMARY:Human-Centred Agentic Science: Sensemaking\, Provenance\, and Huma
  n-AI Collaboration
 DTSTART;TZID=Asia/Hong_Kong:20260504T160000
 DTEND;TZID=Asia/Hong_Kong:20260504T170000
-DTSTAMP:20260405T184203Z
+DTSTAMP:20260406T185802Z
 UID:20260504T160000-humancentredagenticsciencesens@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Dr. Kai Xu\nAffiliation: Univ. of Nottingham\nHost: A
  . Narechania\nDetails: https://cse.hkust.edu.hk/pg/seminars/S26/xu.html\nS
