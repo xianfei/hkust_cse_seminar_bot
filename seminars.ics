@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:Improving the Resilience of Wireless Communication and Computing
 DTSTART;TZID=Asia/Hong_Kong:20260928T160000
 DTEND;TZID=Asia/Hong_Kong:20260928T170000
-DTSTAMP:20260716T190645Z
+DTSTAMP:20260717T190447Z
 UID:20260928T160000-improvingtheresilienceofwirele@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Prof. Falko Dressler\nAffiliation: Technische Univers
  ität\nHost: S. Guo\nDetails: https://cse.hkust.edu.hk/pg/seminars/F26/dre
