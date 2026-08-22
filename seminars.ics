@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:PG Orientation
 DTSTART;TZID=Asia/Hong_Kong:20260907T160000
 DTEND;TZID=Asia/Hong_Kong:20260907T170000
-DTSTAMP:20260821T183330Z
+DTSTAMP:20260822T182644Z
 UID:20260907T160000-pgorientation@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Dr. Shuai Wang\nAffiliation: PG Coordinator\nHost: S.
   Wang\nSource: https://cse.hkust.edu.hk/pg/seminars/
@@ -22,7 +22,7 @@ SUMMARY:On the Opportunities of Exploiting LLM Agents for ML System Design
   and Implementation
 DTSTART;TZID=Asia/Hong_Kong:20260921T160000
 DTEND;TZID=Asia/Hong_Kong:20260921T170000
-DTSTAMP:20260821T183330Z
+DTSTAMP:20260822T182644Z
 UID:20260921T160000-ontheopportunitiesofexploiting@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Dr. Binhang Yuan\nAffiliation: CSE\nHost: Q. Chen\nSo
  urce: https://cse.hkust.edu.hk/pg/seminars/
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Improving the Resilience of Wireless Communication and Computing
 DTSTART;TZID=Asia/Hong_Kong:20260928T160000
 DTEND;TZID=Asia/Hong_Kong:20260928T170000
-DTSTAMP:20260821T183330Z
+DTSTAMP:20260822T182644Z
 UID:20260928T160000-improvingtheresilienceofwirele@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Prof. Falko Dressler\nAffiliation: Technische Univers
  ität\nHost: S. Guo\nDetails: https://cse.hkust.edu.hk/pg/seminars/F26/dre
@@ -45,7 +45,7 @@ SUMMARY:Reprogramming the Internet of Things: From Things to Generative Sm
  art Spaces
 DTSTART;TZID=Asia/Hong_Kong:20261005T160000
 DTEND;TZID=Asia/Hong_Kong:20261005T170000
-DTSTAMP:20260821T183330Z
+DTSTAMP:20260822T182644Z
 UID:20261005T160000-reprogrammingtheinternetofthin@cse.hkust.edu.hk
 DESCRIPTION:Speaker: Prof. Abdelsalam (Sumi) Helal\nAffiliation: Univ. of 
  Bologna\nHost: M. Li\nSource: https://cse.hkust.edu.hk/pg/seminars/
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Career Development for Engineering\n Research Students
 DTSTART;TZID=Asia/Hong_Kong:20261109T160000
 DTEND;TZID=Asia/Hong_Kong:20261109T170000
-DTSTAMP:20260821T183330Z
+DTSTAMP:20260822T182644Z
 UID:20261109T160000-careerdevelopmentforengineerin@cse.hkust.edu.hk
 DESCRIPTION:Host: S. Wang\nDetails: https://cse.hkust.edu.hk/pg/seminars/F
  26/wang.html\nSource: https://cse.hkust.edu.hk/pg/seminars/
